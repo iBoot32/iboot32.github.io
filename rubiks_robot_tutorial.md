@@ -1,4 +1,4 @@
-Creating a robot to solve Rubik's Cubes in under 2 seconds
+# Creating a robot to solve Rubik's Cubes in under 2 seconds
 By Tom O'Donnell (@iBoot32 on Twitter)
 
 Materials:
